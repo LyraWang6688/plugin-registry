@@ -1,0 +1,13 @@
+schema_version: 1
+
+repository:
+  name: plugin-registry
+  owner: LyraWang6688
+
+plugins: {}
+
+allowed_statuses:
+  - available
+  - limited
+  - disabled
+  - unknown
